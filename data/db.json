@@ -16,77 +16,77 @@
     },
     {
       "id": 3,
-      "image": "http://localhost:3000/assets/cpp.jpeg",
+      "image": "https://media.istockphoto.com/id/1422787212/photo/c-sharp-programming-language-source-code-example-on-monitor-c-source-code.webp?a=1&b=1&s=612x612&w=0&k=20&c=VjFDjjUplYgmwYY0wOvgXyfYMdPzVAVavTCQkNxr_iA=",
       "name": "C++ Programming",
       "price": 600,
       "con": "Detailed course on C++"
     },
     {
       "id": 4,
-      "image": "http://localhost:3000/assets/cs.jpeg",
+      "image": "https://media.istockphoto.com/id/1420039900/photo/cyber-security-ransomware-email-phishing-encrypted-technology-digital-information-protected.webp?a=1&b=1&s=612x612&w=0&k=20&c=GOfKER2wccz8_UMtG0Jk4uQH2TgkUuHQhGT08EkFTOk=",
       "name": "Cyber Security",
       "price": 250,
       "con": "This is a full course on Cyber Security"
     },
     {
       "id": 5,
-      "image": "http://localhost:3000/assets/css.jpeg",
+      "image": "https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3NzfGVufDB8fDB8fHww",
       "name": "CSS Full Course",
       "price": 500,
       "con": "This is a full course on CSS"
     },
     {
       "id": 6,
-      "image": "http://localhost:3000/assets/dm.jpeg",
+      "image": "https://media.istockphoto.com/id/1652679812/photo/digital-marketing-business-technology-website-advertisement-email-social-media-network-seo.webp?a=1&b=1&s=612x612&w=0&k=20&c=J8PY0VM1n_Sw-iUFQOm5AHE57CGsfj_o4-M4AMEmygw=",
       "name": "Digital Marketing",
       "price": 300,
       "con": "A full course on Digital Marketing"
     },
     {
       "id": 7,
-      "image": "http://localhost:3000/assets/html.jpeg",
+      "image": "https://media.istockphoto.com/id/183381310/photo/html-code.webp?a=1&b=1&s=612x612&w=0&k=20&c=hHi0GgEvrjDXCu-B7KJCroKmjM4Q6PYlZqRNicZ4XcA=",
       "name": "HTML Full Course",
       "price": 100,
       "con": "A full course on HTML"
     },
     {
       "id": 8,
-      "image": "http://localhost:3000/assets/java.jpeg",
+      "image": "https://media.istockphoto.com/id/870344898/photo/3d-text-of-java.webp?a=1&b=1&s=612x612&w=0&k=20&c=j7l0I1bmoYU7m_HNgyRqG5YxlcSH9vXTaY4ihXf322U=",
       "name": "Java Full Course",
       "price": 100,
       "con": "A beginner-friendly course on Java"
     },
     {
       "id": 9,
-      "image": "http://localhost:3000/assets/js.jpeg",
+      "image": "https://media.istockphoto.com/id/2172166279/photo/a-seminar-and-workshop-on-coding-to-enhance-system-efficiency.webp?a=1&b=1&s=612x612&w=0&k=20&c=66j73dmnoZXLJNSZbiG3GUrNGu5oDjoS3kq5f_oGrfg=",
       "name": "JavaScript",
       "price": 200,
       "con": "Beginner to advanced course"
     },
     {
       "id": 10,
-      "image": "http://localhost:3000/assets/mongo.jpeg",
+      "image": "https://images.unsplash.com/photo-1658204238967-3a81a063d162?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9uZ29kYnxlbnwwfHwwfHx8MA%3D%3D",
       "name": "MongoDB Full Course",
       "price": 300,
       "con": "A full course on MongoDB"
     },
     {
       "id": 11,
-      "image": "http://localhost:3000/assets/node.jpeg",
+      "image": "https://media.istockphoto.com/id/1347542592/photo/node-js-inscription-against-laptop-and-code-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=SacKSD7fEYyWEqaXXagsWO0nPPtel7PRmhMAB0Tp7h8=",
       "name": "Node.js Course",
       "price": 100,
       "con": "Free Node.js course"
     },
     {
       "id": 12,
-      "image": "http://localhost:3000/assets/python.jpeg",
+      "image": "https://media.istockphoto.com/id/2192134048/photo/python-programming-language-concept-with-computer-code-and-laptop.webp?a=1&b=1&s=612x612&w=0&k=20&c=AX1ukBoJi_qPGuun3YTOLSCheXgTlJQpihpblwhWdgw=",
       "name": "Python Full Course",
       "price": 400,
       "con": "Python full course"
     },
     {
       "id": 13,
-      "image": "http://localhost:3000/assets/react.jpeg",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3QlMjBqc3xlbnwwfHwwfHx8MA%3D%3D",
       "name": "React.js Full Course",
       "price": 1000,
       "con": "Premium full course on React.js"
