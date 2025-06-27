@@ -1,0 +1,95 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "image": "http://localhost:3000/assets/ai.jpeg",
+      "name": "Artificial Intelligence",
+      "price": 300,
+      "con": "Have a deep dive on AI"
+    },
+    {
+      "id": 2,
+      "image": "http://localhost:3000/assets/c.jpeg",
+      "name": "C Programming",
+      "price": 500,
+      "con": "Full course on C programming"
+    },
+    {
+      "id": 3,
+      "image": "http://localhost:3000/assets/cpp.jpeg",
+      "name": "C++ Programming",
+      "price": 600,
+      "con": "Detailed course on C++"
+    },
+    {
+      "id": 4,
+      "image": "http://localhost:3000/assets/cs.jpeg",
+      "name": "Cyber Security",
+      "price": 250,
+      "con": "This is a full course on Cyber Security"
+    },
+    {
+      "id": 5,
+      "image": "http://localhost:3000/assets/css.jpeg",
+      "name": "CSS Full Course",
+      "price": 500,
+      "con": "This is a full course on CSS"
+    },
+    {
+      "id": 6,
+      "image": "http://localhost:3000/assets/dm.jpeg",
+      "name": "Digital Marketing",
+      "price": 300,
+      "con": "A full course on Digital Marketing"
+    },
+    {
+      "id": 7,
+      "image": "http://localhost:3000/assets/html.jpeg",
+      "name": "HTML Full Course",
+      "price": 100,
+      "con": "A full course on HTML"
+    },
+    {
+      "id": 8,
+      "image": "http://localhost:3000/assets/java.jpeg",
+      "name": "Java Full Course",
+      "price": 100,
+      "con": "A beginner-friendly course on Java"
+    },
+    {
+      "id": 9,
+      "image": "http://localhost:3000/assets/js.jpeg",
+      "name": "JavaScript",
+      "price": 200,
+      "con": "Beginner to advanced course"
+    },
+    {
+      "id": 10,
+      "image": "http://localhost:3000/assets/mongo.jpeg",
+      "name": "MongoDB Full Course",
+      "price": 300,
+      "con": "A full course on MongoDB"
+    },
+    {
+      "id": 11,
+      "image": "http://localhost:3000/assets/node.jpeg",
+      "name": "Node.js Course",
+      "price": 100,
+      "con": "Free Node.js course"
+    },
+    {
+      "id": 12,
+      "image": "http://localhost:3000/assets/python.jpeg",
+      "name": "Python Full Course",
+      "price": 400,
+      "con": "Python full course"
+    },
+    {
+      "id": 13,
+      "image": "http://localhost:3000/assets/react.jpeg",
+      "name": "React.js Full Course",
+      "price": 1000,
+      "con": "Premium full course on React.js"
+    }
+  ]
+}
