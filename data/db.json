@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "image": "http://localhost:3000/assets/c.jpeg",
+      "image": "https://media.istockphoto.com/id/1422787212/photo/c-sharp-programming-language-source-code-example-on-monitor-c-source-code.webp?a=1&b=1&s=612x612&w=0&k=20&c=VjFDjjUplYgmwYY0wOvgXyfYMdPzVAVavTCQkNxr_iA=",
       "name": "C Programming",
       "price": 500,
       "con": "Full course on C programming"
